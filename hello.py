@@ -1,4 +1,7 @@
 def hello():
     print("hello.")
 
-hello()
+def main():
+    hello()
+
+mian()
